@@ -74,7 +74,6 @@ Winzker, Marco. "Spiking_NN_RGB_FPGA." GitHub, 15 May 2024, https://github.com/M
 M. Winzker, "Spiking_NN_RGB_FPGA," GitHub. [Online]. Available: https://github.com/Marco-Winzker/Spiking_NN_RGB_FPGA. [Accessed: July 5, 2025].
 
 
----
 
 ## Acknowledgements
 
